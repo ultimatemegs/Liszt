@@ -13,6 +13,9 @@ Description: Provides two model functions with which to conduct List
   (8):2157-2169. doi:10.1890/09-0877.1; and a 5-term model after Barnes
   et alb (in prep) to incorporate an additional factor and an interaction
   term.
+  
+  THISIS A GIT TEST
+  
 License: GPL (>= 2)
 Depends: R (>= 2.15.0), rjags, R2jags
 LazyLoad: yes
