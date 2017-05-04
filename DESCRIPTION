@@ -5,6 +5,7 @@ Version: 0.8-1
 Date: 2012-10-10
 Author: Megan Barnes, Bill Venables and William Morris
 Maintainer: Who to complain to <megan.barnes@uq.edu.au>
+            
 Description: Provides two model functions with which to conduct List
   Length Analysis. A 3-term model following the methods described in:
   Szabo JK, Vesk PA, Baxter PWJ, Possingham HP (2010) Regional avian
