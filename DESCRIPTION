@@ -1,0 +1,20 @@
+Package: Liszt
+Type: Package
+Title: Bayesian List Length Analysis
+Version: 0.8-1
+Date: 2012-10-10
+Author: Megan Barnes, Bill Venables and William Morris
+Maintainer: Who to complain to <megan.barnes@uq.edu.au>
+Description: Provides two model functions with which to conduct List
+  Length Analysis. A 3-term model following the methods described in:
+  Szabo JK, Vesk PA, Baxter PWJ, Possingham HP (2010) Regional avian
+  species declines estimated from volunteer-collected long-term data
+  using List Length Analysis. Ecological Applications 20
+  (8):2157-2169. doi:10.1890/09-0877.1; and a 5-term model after Barnes
+  et alb (in prep) to incorporate an additional factor and an interaction
+  term.
+License: GPL (>= 2)
+Depends: R (>= 2.15.0), rjags, R2jags
+LazyLoad: yes
+LazyData: yes
+Packaged: 2013-04-10 00:10:56 UTC; Megzz
